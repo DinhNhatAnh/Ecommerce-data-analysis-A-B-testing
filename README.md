@@ -70,6 +70,7 @@ An interactive dashboard was built in Power BI to visualize:
 - User segmentation by device
 - Conversion trends over time
 
+![](https://github.com/DinhNhatAnh/Ecommerce-data-analysis-A-B-testing/blob/main/Dashboard.JPG)
 ## 🚀11. Project Impact
 - Demonstrates end-to-end data analysis workflow
 - Applies statistical testing in real-world scenarios
